@@ -1,0 +1,46 @@
+
+**Privacy Policy for Whispers AI Extension**
+
+_Last updated: Mon November 2023
+
+This Privacy Policy outlines the types of information that [Your Company or Your Name] ("we," "us," or "our") collects, uses, and safeguards through the Whispers AI Extension ("Extension"). We are committed to protecting your privacy and handling your information in an open and transparent manner.
+
+**1. Information Collection and Use**
+
+The Extension uses voice recognition technology to receive your verbal commands and convert them into text. To provide this service, the Extension requires access to your microphone. We only activate the microphone when you initiate the "start" voice command and cease listening when the "stop" command is triggered.
+
+**Microphone Access:**
+We do not record or store audio from your environment. The Extension temporarily processes audio data to convert your speech into coding instructions. This data is processed locally on your device and is not transmitted to our servers.
+
+**Stored Data:**
+We collect and store preferences and settings in your local browser storage to maintain your Extension settings and provide a consistent user experience. This data is not synced to our servers and remains on your local device unless you choose to clear your browser data.
+
+**Tabs and Web Navigation:**
+The Extension may monitor your active tab and web navigation to provide context-specific coding assistance. This information is used solely within the Extension and is not recorded or stored externally.
+
+**Clipboard Access:**
+If you grant permission, the Extension may access your clipboard to perform copy and paste operations through voice commands. This data is only used at your direction and is not stored or logged by the Extension.
+
+**2. Data Sharing and Disclosure**
+
+We do not share or disclose any personal information collected through the Extension with third parties, except as required by law or to respond to lawful requests and legal process.
+
+**3. Data Security**
+
+We take the security of your data seriously and implement reasonable measures to protect it against unauthorized access, alteration, or destruction.
+
+**4. Data Retention**
+
+We retain the stored information in your local browser for as long as necessary to provide you with the Extension's functionality. You may clear your local browser data to remove this information at any time.
+
+**5. Changes to This Privacy Policy**
+
+We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes, we will notify you by updating the date at the top of the policy.
+
+**6. Contact Information**
+
+If you have any questions about this Privacy Policy, please contact us at developers@whispersai.io.
+
+---
+
+This privacy policy should be crafted to be clear and concise to ensure users can understand their rights and your practices. Be sure to replace placeholders with actual data and contact information relevant to your extension. It's also advisable to consult with a legal expert to ensure that your privacy policy complies with all applicable laws and regulations, including the General Data Protection Regulation (GDPR) and the California Consumer Privacy Act (CCPA), if relevant.
